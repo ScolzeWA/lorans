@@ -16,10 +16,10 @@ Z = '\033[1;31m'
 X = '\033[1;33m' 
 F = '\033[2;32m' 
 ch = "SDBB_Bot"
-api_id = "#ايبي ايديحطه هنا"
-api_hash = "ايبي هاش حطه هنا "
-ID = "ايديك"
-token= "توكنك"
+api_id = "11275326"
+api_hash = "5eaa361079dd93dd40362c7227a74837"
+ID = "5257388446"
+token= "5770508898:AAGG2qFNwrWcGXkWxezFwBBktxWybHoTzUA"
 combo = input(X+'ENTER YOU COMBO NAME : '+F)
 os.system('clear')
 client = TelegramClient('session', api_id, api_hash)
